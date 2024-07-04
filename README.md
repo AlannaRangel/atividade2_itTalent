@@ -16,12 +16,12 @@ Este projeto implementa um sistema de gestão de notas para alunos, utilizando N
 
 2. **Instale as dependências:**
    Certifique-se de estar no diretório do projeto (gestao_notas) e execute:
-   npm install
+  - npm install
 
 3. **Execute o programa:**
    No mesmo diretório, execute o seguinte comando:
-   node index.js
+   - node index.js
 
 4. **Siga as instruções no console:**
-   Digite o nome do aluno.
-   Para cada matéria, digite o nome da matéria, as notas (garantindo que sejam válidas) e o número de faltas.
+   - Digite o nome do aluno.
+   - Para cada matéria, digite o nome da matéria, as notas (garantindo que sejam válidas) e o número de faltas.
